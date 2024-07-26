@@ -22,7 +22,7 @@ When using these libraries or components, please ensure that you comply with the
 
 
 Instructions
-    1.Data location(train_data_path)
+    1.Data location(train_data_path),The provision of a small amount of sample data is given.
         Dataset original image storage address: D:\pw\x1\DAA-UNet\data\train
         Label data storage address:E:\pw_2024\PycharmProjects\data\seg
     2.Model:  DAAUNet.py
